@@ -14,7 +14,7 @@
             <p><b>地址:地球村中国河南省安阳市</b></p>
         </td>
         <td width="25%">
-            <img src="http://q1.qlogo.cn/g?b=qq&nk=1754798088&s=640">
+            <img src="http://q1.qlogo.cn/g?b=qq&nk=1754798088&s=64">
         </td>
     </tr>
 </table>
