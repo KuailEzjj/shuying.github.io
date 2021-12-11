@@ -14,7 +14,7 @@
             <p><b>地址:地球村中国河南省安阳市</b></p>
         </td>
         <td width="25%">
-            <img src="http://q1.qlogo.cn/g?b=qq&nk=1754798088&s=640">
+            <img src="https://www.baidu.com/link?url=E5FJJqUTFblrd7uG_fTH2WxwYCMqupSD9neGAUtntj-K9_p1608S_Kx-B-sqpCAs4lnif1NERr-K8ZHD7bnRI5wPPuhW71o5ArO0yXe9jhWMTeCx_1G6mwipg8vFzT3hqQXKFsVRTCuUxJBHEaATibSrJ661MUbHEcML4mpVRGYiIuL1qH7ucleJdIqQWtSYNUYKYkWjKtSuSbUduho1pyAZy0PmIpur2bFVRd3flPMNnnFBzzM63at7m4mnRIlps6syqJ9JkEt0BSQgjZnPlTSlffHDJ6ZrhmPCcpqESmc40aoX0iTM_tWDjEYki1AF8JyXDGek_LUM_dZH6tahcS9FbHbhuqj3bxbNiFlEOB5XctCbk_18EnUCc3O0_UR-sGMoGgsHikMjxUGjayaut2SEApBuI52KHj709JZra03PkyhpX1_iPgLhdHDjQyk6uVnp-YYv0uFYPQuDK5TxY6D-BLKCbkW5XcBg6sYDb87td8TBVB-vWRkEVI9KW8yIyYEf-FyVnQpLa4mPLY9LoIn_YdgPpmvshkPv5EquIvcZCIIfESZMW4QOWTtHZwt0zqBo1fNOxBLz_2wgagTqzFu6HfOEbMdNYyM0jnaqbT8lUU_2xFKa7Jqq7Bqf3fyD2I2c9K-0ddBzfEF3eIxg4a&wd=&eqid=a7fea848000ede720000000561b4c074">
         </td>
     </tr>
 </table>
